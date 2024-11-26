@@ -1,3 +1,4 @@
+// 
 
 const targetDate = new Date("December 25, 2024 23:59:59").getTime();
 
@@ -31,7 +32,7 @@ setInterval(updateCountdown, 1000);
 updateCountdown();
 
 
-
+// Select the search icon and search box
 const searchIcon = document.querySelector('.search-icon');
 const searchBox = document.querySelector('.search-box');
 
