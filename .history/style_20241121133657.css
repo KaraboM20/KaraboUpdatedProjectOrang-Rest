@@ -1,0 +1,24 @@
+/* header {
+    background-image: url(./assets/food-image.jpg);
+} */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-info ul {
+    list-style: none;
+    color: black;
+    display: flex;
+    
+}
+
+.nav-info li {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.icon {
+    list-style: none;
+}

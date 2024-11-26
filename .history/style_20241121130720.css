@@ -1,0 +1,13 @@
+header {
+    background-image: url(./assets/food-image.jpg);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 12px;
+    height: 12px;
+}

@@ -1,0 +1,6 @@
+const backgroundDiv = document.querySelector('.upper-section');
+
+const image = [
+    './assets/food-image.jpg',
+    'V'
+]

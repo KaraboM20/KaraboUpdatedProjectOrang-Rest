@@ -1,0 +1,29 @@
+/* header {
+    background-image: url(./assets/food-image.jpg);
+} */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-info ul {
+    list-style: none;
+    color: black;
+    display: flex;
+    
+}
+
+.nav-info li {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+h1 {
+    color: rgba(117, 115, 115, 0.988);
+    font-size: ;
+}
+
+.icon .material-icons {
+    text-decoration: none;
+}

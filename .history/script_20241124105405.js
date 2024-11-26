@@ -1,0 +1,3 @@
+function updateTimer() {
+    const now = 
+}
