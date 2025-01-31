@@ -49,5 +49,5 @@ Users can navigate between images using an interactive gallery or lightbox effec
 
 ### **How to Run the Project**
 
-Here is the link of the Project:
+Here is the link of the Project: https://karabommako-orangerestuarant-updatedp.netlify.app/
 ---
