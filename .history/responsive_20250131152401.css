@@ -1,0 +1,14 @@
+@media (max-width: 768px) and (min-width:480px)  {
+ body {
+   text-align: center;
+   margin: 20px;
+   padding: 0;
+   background-color: #fce4ec;
+ }
+
+ .nav-info {
+   display: grid;
+   
+ }
+ 
+}

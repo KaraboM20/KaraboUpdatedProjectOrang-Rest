@@ -1,0 +1,17 @@
+@media (max-width: 768px) and (min-width:480px)  {
+ body {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    /* max-width: 600px; */
+ }
+
+ .check-availability {
+    display: block;
+    display: grid;
+
+ }
+
+ .testimony 
+    
+}

@@ -1,0 +1,30 @@
+@media (max-width: 768px) and (min-width:480px)  {
+ body {
+   text-align: center;
+   padding: 0;
+ }
+
+ .nav-links a {
+   font-size: 12.5px;  
+}
+
+.banner-section{
+   overflow-y: hidden;
+}
+
+.name {
+   font-size: 50px;
+} 
+
+.check-availability {
+   font-size: 10;
+}
+
+.testimony1 p{
+   font-size: 1px;
+}
+
+
+   
+
+}
