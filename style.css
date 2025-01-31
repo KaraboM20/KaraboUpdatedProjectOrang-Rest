@@ -59,6 +59,7 @@
 
 .banner-section {
     margin-top: 90px;
+    overflow-y: hidden;
 }
 
 .upper-section {
@@ -125,7 +126,6 @@ h1 {
 
 .fill-up {
     display: flex;
-    flex-wrap: wrap; 
  }
 
 .check-availability input {
